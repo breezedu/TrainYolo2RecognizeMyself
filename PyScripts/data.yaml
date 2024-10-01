@@ -1,0 +1,5 @@
+train: ./TrainYoloWithImages/Images
+val: ./ValYoloWithImages/Images
+
+nc: 1  # Number of classes (only one class: yourself)
+names: ['Jeff.G']  # The label name for your class
