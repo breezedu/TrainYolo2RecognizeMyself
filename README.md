@@ -1,5 +1,5 @@
 
-# YOLOv8 Self Recognition Project
+# YOLO Self Recognition Project
 
 This project demonstrates how to train a YOLOv8 model to recognize yourself in real-time using Python, OpenCV, and the Ultralytics YOLOv8 framework.
 
