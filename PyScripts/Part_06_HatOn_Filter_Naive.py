@@ -97,7 +97,7 @@ while cap.isOpened():
         break
 
     # Use the YOLO model to detect objects (yourself in this case) in the current frame
-    results = model.predict(source=frame, conf=0.5, verbose=False)
+    results = model_jeff.predict(source=frame, conf=0.5, verbose=False)
 
     # Loop through each detection
     for result in results:
